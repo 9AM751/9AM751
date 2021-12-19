@@ -1,4 +1,4 @@
-### Hi there 👋
+# ✨Hi there
 
 <!--
 **9AM751/9AM751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Gender：     Male
+
+- Birth：          Dec，2000
+
+- School：       东华理工大学长江学院
+
+- Now：           third year in university
+
+- Back-End Develop&JAVA
+
+- Programming Language：JAVA && GoLang
+
+- Hobbies：     games{ OW,  Dota2,  Assassin's Creed}，painting
+
+- ACGN
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical)](https://github.com/9AM751/github-readme-stats)
