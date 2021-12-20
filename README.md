@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Gender:                        Male
 
-- Birth:                            Dec，2000
+- Birth:                             Dec，2000
 
 - School:                         东华理工大学长江学院
 
