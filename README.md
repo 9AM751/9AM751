@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - School：       东华理工大学长江学院
 
+    ![]()
+
 - Now：           third year in university
 
 - Back-End Develop&JAVA
@@ -32,5 +34,3 @@ Here are some ideas to get you started:
 - ACGN
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical)](https://github.com/9AM751/github-readme-stats)
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9AM751&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
