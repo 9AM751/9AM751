@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--------
 
 - Gender：     Male
 
@@ -30,5 +31,6 @@ Here are some ideas to get you started:
 - Hobbies：     games{ OW,  Dota2,  Assassin's Creed}，painting
 
 - ACGN
+-----------
 
-- <img src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/>  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9AM751&hide=pascal,html,CSS" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9AM751&hide=pascal,html,CSS" alt="Top Languages"/>
