@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |Birth:                 |Dec，2000              |
 |School:                |东华理工大学长江学院       |
 |Now:                   |Third year in university|
-|Back-End Develop&JAVA|
+|Direction              |Back-End Develop&JAVA|
 |Programming Language:   |JAVA && GoLang        |
 |Hobbies:               |games{ 'OW', 'Dota2' , 'Assassin's Creed'}，painting|
 |ACGN:                  |favorite role{'さくらじま まい' , '星野 ひなた' , 'さくらちよ'}|
