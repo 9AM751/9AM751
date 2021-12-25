@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  width=230px; align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9AM751&hide=pascal,html,CSS" alt="Top Languages"/>
 
 |                       |                                                     |
 |:---------------------:|:---------------------------------------------------:|
@@ -26,6 +25,7 @@ Here are some ideas to get you started:
 | Language:             | JAVA && GoLang                                      |
 | Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，Painting |
 | ACGN:                 | Yes    |
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9AM751&hide=pascal,html,CSS" alt="Top Languages"/>
 
 <img    width=435px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
 
