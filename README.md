@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 | Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，Painting |
 | ACGN:                 | Yes    |
 
-<img    width=440px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
+<img    width=435px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
 
