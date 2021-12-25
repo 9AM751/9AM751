@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 | Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，painting |
 | ACGN:                 | favorite role{'さくらじま まい' , '星野 ひなた' , 'さくらちよ'}      |
 
-<img   width=653px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/>  
+<img   width=600px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/>  
