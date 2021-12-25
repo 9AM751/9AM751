@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 | Birth:                | Dec，2000                                            |
 | School:               | 东华理工大学长江学院                                          |
 | Now:                  | Third year in university                            |
-| Direction             | Back-End Develop&JAVA                               |
-| Programming Language: | JAVA && GoLang                                      |
-| Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，painting |
-| ACGN:                 | favorite role{'さくらじま まい' , '星野 ひなた' , 'さくらちよ'}      |
+| Direction             | Back-End Develop & JAVA                               |
+| Language:             | JAVA && GoLang                                      |
+| Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，Painting |
+| ACGN:                 | Yes    |
 
-<img    width=580px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
+<img    width=450px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
 
