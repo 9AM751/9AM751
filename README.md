@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 | School:               | 东华理工大学长江学院                                          |
 | Now:                  | Third year in university                            |
 | Direction             | Back-End Develop & JAVA                               |
-| Language:             | JAVA && GoLang                                      |
+| Language:             | JAVA && Go                                     |
 | Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，Painting |
 | ACGN:                 | Yes    |
 
