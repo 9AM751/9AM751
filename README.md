@@ -1,4 +1,4 @@
-# ✨Hi this is my info Introduction .
+# ✨Hi there 👋 .
 
 <!--
 **9AM751/9AM751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,19 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9AM751&hide=pascal,html,CSS" alt="Top Languages"/>
 
-|    Informations        |       Details                                   |
-|:---------------------:|:---------------------------------------------------:|
-| Gender:               | Male                                                |
-| Birth:                | Dec，2000                                            |
-| School:               | 东华理工大学长江学院                                          |
-| Now:                  | Third year in university                            |
-| Direction             | Back-End Develop & JAVA                               |
-| Language:             | JAVA && Go                                     |
-| Hobbies:              | games{ 'OW', 'Dota2' , 'Assassin's Creed'}，Painting |
-| ACGN:                 | Yes    |
-
-
-<img    width=455px;  src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=Setting card locale&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
+> Now I'm a junior in college.
+> 
+> The direction is back-end development.
+> 
+> Main languages: JAVA, Go.
+> 
+> Like ACGN.
+> 
+> 计科大三在读，是个菜菜，正在努力
+> <img     src="https://github-readme-stats.vercel.app/api?username=9AM751&show_icons=true&theme=Setting card locale&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts"/> 
+> 
+> email: bluewinters3@163.com
+> 
+> BLOG: https://9am751.github.io/
+> 
+> Yuque: [9AM · 语雀](https://www.yuque.com/9am_)
+> 
+> WeChat: [check](https://gitee.com/hawk9am/blogimage/raw/master/img/mmqrcode1639579394165.png)
+> 
+>
 
