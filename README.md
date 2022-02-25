@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 > 
 > Yuque: [9AM · 语雀](https://www.yuque.com/9am_)
 > 
-> WeChat: [check](https://gitee.com/hawk9am/blogimage/raw/master/img/mmqrcode1639579394165.png)
-> 
-> ![info](https://github-readme-stats.vercel.app/api?username=9AM751) 
+> <img src="https://github-readme-stats.vercel.app/api?username=9AM751">
+
+
+
 
