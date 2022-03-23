@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 > 
 > BLOG: https://9am751.github.io/
 > 
-> Yuque: [9AM · 语雀](https://www.yuque.com/9am_)
+> Yuque: [9AM · 语雀](https://www.yuque.com/rlyanpro)
 > 
 > <img src="https://github-readme-stats.vercel.app/api?username=9AM751">
 
