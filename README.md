@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 > 
 > email: bluewinters3@163.com
 > 
-> Main languages： JAVA.  Go.  TypeScript.
-> 
+>yuque: https://www.yuque.com/rlyanpro
 > ![image](https://user-images.githubusercontent.com/78640296/155733643-9f73621d-222c-49c5-afe5-1b729e08651b.png)
 >
 >---
