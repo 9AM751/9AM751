@@ -20,16 +20,6 @@ Here are some ideas to get you started:
 > 
 >yuque: https://www.yuque.com/rlyanpro
 > ![image](https://user-images.githubusercontent.com/78640296/155733643-9f73621d-222c-49c5-afe5-1b729e08651b.png)
->
->---
-> 计科大三在读，是个菜菜，正在努力
->
-> email: bluewinters3@163.com
-> 
-> BLOG: https://9am751.github.io/
-> 
-> Yuque: [9AM · 语雀](https://www.yuque.com/rlyanpro)
-> 
 > <img src="https://github-readme-stats.vercel.app/api?username=9AM751">
 
 
