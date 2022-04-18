@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Now I'm a junior in college.
+> 计科大三在读，是个菜菜，正在努力。
 > 
-> The direction is back-end development.
+> email: bluewinters3@163.com
 > 
 > Main languages： JAVA.  Go.  TypeScript.
 > 
