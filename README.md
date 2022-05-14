@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 计科大三在读，是个菜菜，正在努力。
+> 计科大三，是个菜菜，正在努力。
 > 
 > email: bluewinters3@163.com
 > 
