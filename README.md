@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 > 
 > yuque: https://www.yuque.com/rlyanpro
 > ![](https://user-images.githubusercontent.com/78640296/155733643-9f73621d-222c-49c5-afe5-1b729e08651b.png)
+> <img style="height: 80%" src="https://github-readme-stats.vercel.app/api?username=9AM751">
+> <img  style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9am751&layout=compact&hide=html,css" />
 
-<div style=" margin: auto">
-<img style="height: 158px" src="https://github-readme-stats.vercel.app/api?username=9AM751">
-<img  style="height: 158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9am751&layout=compact&hide=html,css" />
-</div>
->
